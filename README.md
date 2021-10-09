@@ -1,9 +1,9 @@
 # aInstagram-API
 
-DOCUMENTATION
-In this repository, I have Designed and Developed an HTTP JSON API for the basic version of aInstagram.
-It is capable of doing the following operations-
-Create a User
+
+#In this repository, I have Designed and Developed an HTTP JSON API for the basic version of aInstagram.
+#It is capable of doing the following operations-
+#Create a User
 Should be a POST request
 Use JSON request body
 URL should be ‘/users'
